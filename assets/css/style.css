@@ -782,7 +782,6 @@ Start Section title
     font-size: 26px;
     line-height: 1;
     font-weight: 600;
-    text-transform: uppercase;
     margin-top: -4px;
     margin-bottom: 40px;
 }
@@ -3150,7 +3149,6 @@ only screen and (max-width: 767.98px) {
     font-size: 16px;
     font-weight: 600;
     line-height: 1.3;
-    text-transform: uppercase;
     margin-bottom: 15px;
     margin-top: -3px;
 }
@@ -13882,7 +13880,6 @@ Start Footer Area Wrapper
     font-size: 20px;
     line-height: 1;
     font-weight: 600;
-    text-transform: uppercase;
     position: relative;
     padding-bottom: 30px;
     margin-bottom: 33px;
